@@ -5,7 +5,7 @@
 // ============================================
 
 // TROQUE AQUI pelo seu email
-$destinatario = "SEU-EMAIL@AQUI.COM";
+$destinatario = "alexpsantini@gmail.com";
 $assunto_prefix = "[RockSolid Website] Nova mensagem de contato";
 
 // Segurança: aceita apenas POST
